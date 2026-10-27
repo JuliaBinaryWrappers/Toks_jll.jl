@@ -1,0 +1,58 @@
+[[Toks]]
+arch = "aarch64"
+git-tree-sha1 = "b8f20f2921b6f25278944b5b8fe9d738c09d8f0a"
+os = "macos"
+
+    [[Toks.download]]
+    sha256 = "b1ec377281475ff4166499980a4b409b6a78980bfdec91329a8cf67b4a5f5947"
+    url = "https://github.com/JuliaBinaryWrappers/Toks_jll.jl/releases/download/Toks-v0.3.3+0/Toks.v0.3.3.aarch64-apple-darwin.tar.gz"
+[[Toks]]
+arch = "aarch64"
+git-tree-sha1 = "174187aed78a78d9ac97e811b7c24622df6b24b3"
+libc = "glibc"
+os = "linux"
+
+    [[Toks.download]]
+    sha256 = "48cf699ab45ebcb7a44913d94e58f5c8def76c4c283b2ccb52eb11d5c57e1ae6"
+    url = "https://github.com/JuliaBinaryWrappers/Toks_jll.jl/releases/download/Toks-v0.3.3+0/Toks.v0.3.3.aarch64-linux-gnu.tar.gz"
+[[Toks]]
+arch = "aarch64"
+git-tree-sha1 = "3eaf7790547604a77da46b6b2368cb011d14b669"
+os = "freebsd"
+
+    [[Toks.download]]
+    sha256 = "8dfc812b3cb43aa0bd598172660eaeaa8022d395b8c4e759b9ff2a9e33cad9d2"
+    url = "https://github.com/JuliaBinaryWrappers/Toks_jll.jl/releases/download/Toks-v0.3.3+0/Toks.v0.3.3.aarch64-unknown-freebsd.tar.gz"
+[[Toks]]
+arch = "x86_64"
+git-tree-sha1 = "717ee26894b00a55d69d3da8b62f6b3a58304d7f"
+os = "macos"
+
+    [[Toks.download]]
+    sha256 = "44f52a848ef567bc6c3c695988e6912cea6358b50b65d4d55d47a32024b66ed1"
+    url = "https://github.com/JuliaBinaryWrappers/Toks_jll.jl/releases/download/Toks-v0.3.3+0/Toks.v0.3.3.x86_64-apple-darwin.tar.gz"
+[[Toks]]
+arch = "x86_64"
+git-tree-sha1 = "226c691c142136e92735c36b0fe8e8789a3795c4"
+libc = "glibc"
+os = "linux"
+
+    [[Toks.download]]
+    sha256 = "86e729a37923e7687389dddd1ce2984ec09d5bfcfd5f00a325c56e4fb728704c"
+    url = "https://github.com/JuliaBinaryWrappers/Toks_jll.jl/releases/download/Toks-v0.3.3+0/Toks.v0.3.3.x86_64-linux-gnu.tar.gz"
+[[Toks]]
+arch = "x86_64"
+git-tree-sha1 = "2db9c14d64cb34792ec43f9358a0ae814cddd48e"
+os = "freebsd"
+
+    [[Toks.download]]
+    sha256 = "b6da48dfd0c8e99fb85567211e3138a5dafeaaebd95b5ab9184f34a2940d641b"
+    url = "https://github.com/JuliaBinaryWrappers/Toks_jll.jl/releases/download/Toks-v0.3.3+0/Toks.v0.3.3.x86_64-unknown-freebsd.tar.gz"
+[[Toks]]
+arch = "x86_64"
+git-tree-sha1 = "6c06bcb426fa4039e31bc877b1f40e73ef32f5ec"
+os = "windows"
+
+    [[Toks.download]]
+    sha256 = "39e704fe35350345b7d3f81e06fdc8a51bb19f8c8417e8678d8f6f4e9931c252"
+    url = "https://github.com/JuliaBinaryWrappers/Toks_jll.jl/releases/download/Toks-v0.3.3+0/Toks.v0.3.3.x86_64-w64-mingw32.tar.gz"
